@@ -1,0 +1,3 @@
+[submodule "test_submodule"]
+	path = test_submodule
+	url = https://github.com/aeon33system/ec101_project99.git
